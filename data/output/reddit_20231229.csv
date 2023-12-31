@@ -1,0 +1,16 @@
+id,title,score,num_comments,author,created_utc,url,over_18,edited,spoiler,stickied
+18tjgp8,Zendesk Moves from DynamoDB to MySQL and S3 to Save over 80% in Costs,43,5,rgancarz,2023-12-29 09:43:54,https://www.infoq.com/news/2023/12/zendesk-dynamodb-mysql-s3-cost/,False,False,False,False
+18t52ro,DDIA,34,17,Repulsive-Ad7769,2023-12-28 21:28:10,https://www.reddit.com/r/dataengineering/comments/18t52ro/ddia/,False,False,False,False
+18tgg69,Best practices for documenting database design,15,12,rubikol,2023-12-29 06:28:12,https://www.reddit.com/r/dataengineering/comments/18tgg69/best_practices_for_documenting_database_design/,False,False,False,False
+18tho6r,Next-Gen ETL Tools,13,25,thebatman7727,2023-12-29 07:44:16,https://www.reddit.com/r/dataengineering/comments/18tho6r/nextgen_etl_tools/,False,False,False,False
+18tdkfv,How do you securely manage remotely available secrets at scale in a cost effective way?,6,8,DuckDatum,2023-12-29 03:53:55,https://www.reddit.com/r/dataengineering/comments/18tdkfv/how_do_you_securely_manage_remotely_available/,False,False,False,False
+18t98ob,Loading a sharded MYSQL database into Snowflake,5,4,themooseCS,2023-12-29 00:27:23,https://www.reddit.com/r/dataengineering/comments/18t98ob/loading_a_sharded_mysql_database_into_snowflake/,False,False,False,False
+18tw6um,How to best sync files between Sharepoint and s3,4,4,third_dude,2023-12-29 20:11:31,https://www.reddit.com/r/dataengineering/comments/18tw6um/how_to_best_sync_files_between_sharepoint_and_s3/,False,False,False,False
+18tr905,What to know before my first job,3,4,sebakjal,2023-12-29 16:39:05,https://www.reddit.com/r/dataengineering/comments/18tr905/what_to_know_before_my_first_job/,False,False,False,False
+18tbxq3,How do I exclude files in ADF?,2,4,ComfortAndSpeed,2023-12-29 02:34:07,https://www.reddit.com/r/dataengineering/comments/18tbxq3/how_do_i_exclude_files_in_adf/,False,False,False,False
+18tx3o5,Analytics Engineering in 2024,2,1,oleg_agapov,2023-12-29 20:50:52,https://dbtips.substack.com/p/analytics-engineering-in-2024,False,False,False,False
+18tf85z,Messy Data,1,1,Used_Ad_2628,2023-12-29 05:20:17,https://www.reddit.com/r/dataengineering/comments/18tf85z/messy_data/,False,False,False,False
+18tcx87,Mimic Blob Storage on Linux Box(es)?,1,4,ReporterNervous6822,2023-12-29 03:21:50,https://www.reddit.com/r/dataengineering/comments/18tcx87/mimic_blob_storage_on_linux_boxes/,False,False,False,False
+18t5qul,documentation attributes and metrics in microstrategy / snowflake,1,0,Icy_Cricket_779,2023-12-28 21:56:02,https://www.reddit.com/r/dataengineering/comments/18t5qul/documentation_attributes_and_metrics_in/,False,False,False,False
+18t58n3,What Data Integrations are needed for your job?,1,6,warphere,2023-12-28 21:34:49,https://www.reddit.com/r/dataengineering/comments/18t58n3/what_data_integrations_are_needed_for_your_job/,False,False,False,False
+18torlm,Record Linkage problem,0,3,Omart__,2023-12-29 14:48:53,https://www.reddit.com/r/dataengineering/comments/18torlm/record_linkage_problem/,False,False,False,False

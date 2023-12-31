@@ -1,0 +1,11 @@
+id,title,score,num_comments,author,created_utc,url,over_18,edited,spoiler,stickied
+18tjgp8,Zendesk Moves from DynamoDB to MySQL and S3 to Save over 80% in Costs,71,7,rgancarz,2023-12-29 09:43:54,https://www.infoq.com/news/2023/12/zendesk-dynamodb-mysql-s3-cost/,False,False,False,False
+18tgg69,Best practices for documenting database design,22,17,rubikol,2023-12-29 06:28:12,https://www.reddit.com/r/dataengineering/comments/18tgg69/best_practices_for_documenting_database_design/,False,False,False,False
+18tho6r,Next-Gen ETL Tools,22,42,thebatman7727,2023-12-29 07:44:16,https://www.reddit.com/r/dataengineering/comments/18tho6r/nextgen_etl_tools/,False,False,False,False
+18tx3o5,Analytics Engineering in 2024,12,6,oleg_agapov,2023-12-29 20:50:52,https://dbtips.substack.com/p/analytics-engineering-in-2024,False,False,False,False
+18tw6um,How to best sync files between Sharepoint and s3,8,5,third_dude,2023-12-29 20:11:31,https://www.reddit.com/r/dataengineering/comments/18tw6um/how_to_best_sync_files_between_sharepoint_and_s3/,False,False,False,False
+18tr905,What to know before my first job,7,6,sebakjal,2023-12-29 16:39:05,https://www.reddit.com/r/dataengineering/comments/18tr905/what_to_know_before_my_first_job/,False,False,False,False
+18u1isg,Filling Gaps in my Data Engineering Skillset,2,3,Devilb0y,2023-12-30 00:04:13,https://www.reddit.com/r/dataengineering/comments/18u1isg/filling_gaps_in_my_data_engineering_skillset/,False,False,False,False
+18u58g9,Need Suggestions and Opinions,1,0,dhruvbaslas,2023-12-30 03:02:44,https://www.reddit.com/r/dataengineering/comments/18u58g9/need_suggestions_and_opinions/,False,False,False,False
+18u0o43,MES/ERP Database Design Diagram Sample?,1,6,Reddit_Account_C-137,2023-12-29 23:26:35,https://www.reddit.com/r/dataengineering/comments/18u0o43/meserp_database_design_diagram_sample/,False,False,False,False
+18tf85z,Messy Data,1,5,Used_Ad_2628,2023-12-29 05:20:17,https://www.reddit.com/r/dataengineering/comments/18tf85z/messy_data/,False,False,False,False
